@@ -1,0 +1,7 @@
+# Normalize line endings
+* text=auto
+
+# JS tratado como binario por ser muito grande
+js/csv_data.js binary
+js/rfb_dados.js binary
+js/rfb_socios.js binary

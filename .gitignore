@@ -1,0 +1,28 @@
+# Editor & IDE
+.DS_Store
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+Thumbs.db
+
+# Logs
+*.log
+
+# Node
+node_modules/
+package-lock.json
+
+# Build
+dist/
+build/
+
+# Temp
+.tmp/
+temp/
+*.temp
+
+# Env
+.env
+.env.local
